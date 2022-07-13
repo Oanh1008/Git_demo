@@ -1,3 +1,4 @@
 private static int calculate(int n){
 	return n * 10;
 }
+
